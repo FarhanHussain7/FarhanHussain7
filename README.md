@@ -1,6 +1,21 @@
 <h1 align="center">Hi 👋, I'm Farhan Hussain</h1>
 <h3 align="center">Full-stack developer Secure, scalable, sleek</h3>
 
+<!-- Futuristic Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-PHP-blue?style=for-the-badge&logo=php" />
+  <img src="https://img.shields.io/badge/Framework-Laravel-red?style=for-the-badge&logo=laravel" />
+  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/MongoDB-Database-4EA94B?style=for-the-badge&logo=mongodb" />
+</p>
+
+## 🚀 About Me
+- 🔧 Versatile developer with experience in **industrial engineering, cloud/hardware infrastructure, and web development**  
+- 🌐 Skilled in **PHP, Laravel, Node.js, Express, MongoDB, React, DevOps workflows**  
+- ⚡ Passionate about **automation, futuristic UI/UX, and secure web applications**
+
+---
 
 - 🔭 I’m currently working on [nextjsFile](https://github.com/FarhanHussain7/NextJsFile)
 
@@ -21,42 +36,15 @@
 - ⚡ Fun fact **- The first computer virus was created in 1986. It was called “Brain” and spread via floppy disks**
 
 
-<!-- Futuristic Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-PHP-blue?style=for-the-badge&logo=php" />
-  <img src="https://img.shields.io/badge/Framework-Laravel-red?style=for-the-badge&logo=laravel" />
-  <img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/MongoDB-Database-4EA94B?style=for-the-badge&logo=mongodb" />
-</p>
-
----
-
-## 🚀 About Me
-- 🔧 Versatile developer with experience in **industrial engineering, cloud/hardware infrastructure, and web development**  
-- 🌐 Skilled in **PHP, Laravel, Node.js, Express, MongoDB, React, DevOps workflows**  
-- ⚡ Passionate about **automation, futuristic UI/UX, and secure web applications**
-
----
 
 ## 🛠️ Featured Projects
 - **Next.js Full-Stack App** → APIs, routing, middleware, dynamic UI  
 - **Spring Boot REST API** → Complete HTTP method coverage with documentation  
 - **MERN + Stripe Integration** → Deployed on AWS EC2 & Render  
 - **Streamlit Banking App** → Refactored console project into interactive web app
-- 
 ---
 
 ## ⚡ Animated Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mongodb,react,aws,docker,linux,spring,python,django,nodejs,git,jenkins,html,css,bootstrap,postman,javascript" />
-</p>
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/farhan"><img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/farhan"><img src="https://img.icons8.com/color/48/twitter.png" alt="Twitter"/></a>
-  <a href="https://github.com/FarhanDev"><img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/></a>
 </p>
